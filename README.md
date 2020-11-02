@@ -1,9 +1,9 @@
 # World Weather Analysis
 
 ## Purpose
-PlanMyTrip is a top travel technology company taht specializes in internet related services in the hotel and lodging industry.    
+PlanMyTrip is a top travel technology company that specializes in internet related services in the hotel and lodging industry.    
 
-Collect and present data for customers via the search page whcih they will filter based upon their preferred travel criteria in order to find their ideal hotel any where in the world.  
+Collect and present data for customers via the search page which can be filtered based upon preferred travel criteria in order to find an ideal hotel anywhere in the world.  
 
 ## Project Plan
 * Task: Collect and analyze weather data across cities worldwide.
