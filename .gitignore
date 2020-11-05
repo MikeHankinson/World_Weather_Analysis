@@ -1,4 +1,12 @@
 # Byte-compiled / optimized / DLL files
+
+# Adding config.py file....to keep the API Key out of public GitHub.  -- MSH
+config.py
+
+# Adding other files, as well.  -- MSH
+API_practice.ipynb
+random_numbers.ipynb
+
 __pycache__/
 *.py[cod]
 *$py.class
