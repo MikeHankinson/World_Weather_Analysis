@@ -24,8 +24,8 @@ Collect and present data for customers via the search page which can be filtered
   * Humidity
   * Cloudiness
   * Wind speed
-* 
-* 
+  * Weather Description
+
 ## Exploratory Visualization
 * Create scatter plots of the weather data for the following comparisons:
   * Latitude versus temperature
@@ -57,31 +57,9 @@ Create a heatmap with pop-up markers that can display information on specific ci
 ## Methodology
 The data was analyzed using Python code within Jupyter Notebook.  The code incorporated both Pandas and matplotlib.pyplot.  
 
-## Deliverables 
-1. 
+## Challenge Deliverables 
+1. Retrieve Weather Data
+2. Create a Customer Travel Destinations Map
+3. Create a Travel Itinerary Map
 
-## Discussion
-* 
-  
-## Recommendations 
-* 
-
-----------------------------------------------------------------------------------
-### Appendix of Figures and Tables
-----------------------------------------------------------------------------------
-<br>
-<br>
-![Fig_1](analysis/Fig1.png)
-<br>
-<br>
-**Fig. 1:  **
-<br>
-<br>
-<br>
-![Table 1](analysis/PyBer_fare_summary.png)
-<br>
-<br>
-**Fig. 2:  **
-<br>
-<br>
-<br>
+All are located within the sub folders of World_Weather_Analysis
